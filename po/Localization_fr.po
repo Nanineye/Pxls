@@ -61,7 +61,7 @@ msgstr "Annuler"
 
 #: resources/public/pebble_templates/index.html:114:20
 msgid "You are not signed in.&nbsp;<a href=\"#\">Sign in with...</a>"
-msgstr "Tu n'es pas identifié.&nbsp;<a href=\"#\">S'identifier avec...</a>"
+msgstr "Tu n'es pas connecté.&nbsp;<a href=\"#\">Se connecter avec...</a>"
 
 #: resources/public/pebble_templates/index.html:124:28
 msgid "Loading..."
@@ -1954,7 +1954,7 @@ msgstr "Échec du changement du nom Discord"
 
 #: resources/public/include/user.js:81:28
 msgid "Sign in with..."
-msgstr "S'identifier avec..."
+msgstr "Se connecter avec..."
 
 #: resources/public/include/user.js:94:149
 msgid "New Accounts Disabled"
