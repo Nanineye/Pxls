@@ -1557,6 +1557,23 @@ msgstr "Alerte"
 msgid "pxls canvas"
 msgstr "canvas de pxls"
 
+#. template link action
+#: resources/public/include/chat.js:79:21
+msgid "Ask"
+msgstr "Demander"
+
+#: resources/public/include/chat.js:83:21
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: resources/public/include/chat.js:87:21
+msgid "Open in current tab (replacing template)"
+msgstr "Ouvrir dans cet onglet (en remplaçant le modèle)"
+
+#: resources/public/include/chat.js:91:21
+msgid "Jump to coordinates without replacing template"
+msgstr "Aller aux coordonnées sans remplacer le modèle"
+
 #: resources/public/include/chat.js:1248:42
 #: resources/public/include/chat.js:1741:27
 msgid "none provided"
@@ -1943,6 +1960,46 @@ msgstr "Ton nouveau pixel est disponible depuis ${alertDelay} secondes !"
 #: resources/public/include/timer.js:98:59
 msgid "Your next pixel is available!"
 msgstr "Ton prochain pixel est disponible !"
+
+#. theme name
+#: resources/public/include/uiHelper.js:47:19
+msgid "Dark"
+msgstr "Sombre"
+
+#. theme name
+#: resources/public/include/uiHelper.js:53:19
+msgid "Darker"
+msgstr "Plus sombre"
+
+#. theme name
+#: resources/public/include/uiHelper.js:59:19
+msgid "Blue"
+msgstr "Bleu"
+
+#. theme name
+#: resources/public/include/uiHelper.js:65:19
+msgid "Purple"
+msgstr "Violet"
+
+#. theme name
+#: resources/public/include/uiHelper.js:71:19
+msgid "Green"
+msgstr "Vert"
+
+#. theme name
+#: resources/public/include/uiHelper.js:77:19
+msgid "Matte"
+msgstr "Mat"
+
+#. theme name
+#: resources/public/include/uiHelper.js:83:19
+msgid "Terminal"
+msgstr "Terminal"
+
+#. theme name
+#: resources/public/include/uiHelper.js:89:19
+msgid "Red"
+msgstr "Rouge"
 
 #: resources/public/include/uiHelper.js:453:30
 msgid "Discord name updated successfully"
